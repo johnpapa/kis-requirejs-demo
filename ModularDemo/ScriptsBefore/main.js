@@ -1,0 +1,5 @@
+(function () {
+    
+    alerter.showMessage();
+    
+})(alerter);
