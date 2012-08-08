@@ -4,12 +4,13 @@
     <title>Modular Demo</title>
 </head>
 <body>
-    <header>
+    <div>
         <h1>Modular Demo</h1>
-    </header>
+    </div>
     
-    <script src="/scripts/require.js" type="text/javascript"></script> 
-    <script src="/scripts/main.js" type="text/javascript"></script> 
-
+    <!-- Shortcut to load require and then load main-->
+    <script data-main="/scripts/main" src="/scripts/require.js" type="text/javascript"></script> 
+    
+    <!-- <script src="/scripts/main.js" type="text/javascript"></script> -->
 </body>
 </html>
