@@ -57,16 +57,24 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="ScriptsBefore\alerter.js" />
-    <Content Include="ScriptsBefore\dataservice.js" />
-    <Content Include="ScriptsBefore\main.js" />
-    <Content Include="index.before.html" />
-    <Content Include="index.after.html" />
+    <Content Include="index3.html" />
+    <Content Include="Scripts1\jquery-1.7.2.js" />
+    <Content Include="Scripts3\alerter.js" />
+    <Content Include="Scripts3\dataservice.js" />
+    <Content Include="Scripts3\jquery-1.7.2.js" />
+    <Content Include="Scripts3\main.js" />
+    <Content Include="Scripts3\require.js" />
+    <Content Include="Scripts1\alerter.js" />
+    <Content Include="Scripts1\dataservice.js" />
+    <Content Include="Scripts1\main.js" />
+    <Content Include="index1.html" />
+    <Content Include="index2.html" />
     <Content Include="Require.JS - LICENSE.txt" />
-    <Content Include="Scripts\alerter.js" />
-    <Content Include="Scripts\main.js" />
-    <Content Include="Scripts\dataservice.js" />
-    <Content Include="Scripts\require.js" />
+    <Content Include="Scripts2\alerter.js" />
+    <Content Include="Scripts2\jquery-1.7.2.js" />
+    <Content Include="Scripts2\main.js" />
+    <Content Include="Scripts2\dataservice.js" />
+    <Content Include="Scripts2\require.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

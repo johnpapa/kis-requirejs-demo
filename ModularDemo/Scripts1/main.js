@@ -1,4 +1,4 @@
-(function () {
+(function (alerter) {
     
     alerter.showMessage();
     
