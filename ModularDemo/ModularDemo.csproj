@@ -69,7 +69,6 @@
     <Content Include="index1.html" />
     <Content Include="index2.html" />
     <Content Include="Scripts2\alerter.js" />
-    <Content Include="Scripts2\jquery-1.7.2.js" />
     <Content Include="Scripts2\main.js" />
     <Content Include="Scripts2\dataservice.js" />
     <Content Include="Scripts2\require.js" />
