@@ -1,8 +1,9 @@
-define('dataservice', [],
+﻿define('dataservice', [],
     function () {
         var
+            msg = 'Welcome to Code Camp',
             getMessage = function () {
-                return 'Welcome to Code Camp';
+                return msg;
             };
 
         return {

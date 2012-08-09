@@ -58,7 +58,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="index3.html" />
-    <Content Include="Scripts1\jquery-1.7.2.js" />
     <Content Include="Scripts3\alerter.js" />
     <Content Include="Scripts3\dataservice.js" />
     <Content Include="Scripts3\jquery-1.7.2.js" />
