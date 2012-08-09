@@ -68,7 +68,6 @@
     <Content Include="Scripts1\main.js" />
     <Content Include="index1.html" />
     <Content Include="index2.html" />
-    <Content Include="Require.JS - LICENSE.txt" />
     <Content Include="Scripts2\alerter.js" />
     <Content Include="Scripts2\jquery-1.7.2.js" />
     <Content Include="Scripts2\main.js" />
