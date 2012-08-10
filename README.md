@@ -21,6 +21,9 @@ The second example (index2.html) uses require.js to load the scripts. It solves 
 - starts with a kickoff script (main.js)
 - loads therest of the scripts as they are needed (when dependencies call on them)
 
+##With RequireJS and 3rd Party Dependencies
+The third example (index3.html) uses require.js to load the scripts while jquery is also introduced as a dependency. 
+
 
 ##More
 Related topics: Dependency Injection (DI), Revealing Module Pattern, Module Pattern, Immediately Invoked Function Execution (IIFE), and Service Locator Pattern
