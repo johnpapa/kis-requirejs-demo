@@ -7,7 +7,7 @@ define('alerter',
             showMessage = function () {
                 var msg = dataservice.getMessage();
                 //alert(msg + ', ' + name);
-                $('#messagebox').text(msg + ', ' + name);
+                $('#message').text(msg + ', ' + name);
             };
 
         return {
